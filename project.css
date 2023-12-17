@@ -1,0 +1,70 @@
+
+    nav{
+        background-color: rgb(61, 58, 58);
+        color: rgb(247, 229, 229);
+        padding: 10px;
+        
+    }
+
+    li{
+        display: inline;
+        margin-right: 30px;
+        
+    }
+    .container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .container div{
+        width: 200px;
+        
+    }
+    .contact-form-container {
+        max-width: 600px;
+        margin: 50px auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        inset-block: ;
+    }
+    
+    h3 {
+        text-align: center;
+        color: #333;
+    }
+    
+    .contact-form {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    label {
+        margin-bottom: 5px;
+    
+    input{
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    
+    button {
+        background-color:black;
+        color: white;  
+        padding: 10px 15px;
+        border-radius: 4px;
+    }
+    
+    button:hover {
+        background-color:black;
+        box-shadow: #333;
+    }
+   
+    nav { background-color: rgb(61, 58, 58);
+        color: rgb(247, 229, 229);
+        padding: 10px;
+       
+    }
+  
